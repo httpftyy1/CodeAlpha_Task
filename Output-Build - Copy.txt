@@ -1,0 +1,6 @@
+﻿Build started at 6:17 PM...
+1>------ Build started: Project: taskno1, Configuration: Debug x64 ------
+1>taskno1.cpp
+1>taskno1.vcxproj -> C:\Users\ranaf\source\repos\taskno1\x64\Debug\taskno1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 6:17 PM and took 05.786 seconds ==========
